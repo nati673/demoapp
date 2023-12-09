@@ -1,0 +1,14 @@
+body {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+input {
+  font-size: 1.5em;
+  text-align: left;
+  padding: 5px;
+  margin-bottom: 30px;
+}
+.notice {
+  color: #ff0000;
+}
